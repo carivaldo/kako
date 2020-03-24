@@ -1,5 +1,5 @@
-﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="repo.TWTUTORIAIS" name="[B][COLOR white].[/COLOR][COLOR mediumblue]MEGA[/COLOR][COLOR lime] REPO[/COLOR][COLOR yellow] TWTutoriais[/B][/COLOR]" version="1.6" provider-name="repo.TWTUTORIAIS">
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="repo.BXL" name="[B][COLOR white].[/COLOR][COLOR mediumblue][/COLOR][COLOR lime] REPO[/COLOR][COLOR yellow] BXL[/B][/COLOR]" version="1.6" provider-name="repo.BXL">
 <requires>
     <import addon="xbmc.python" version="2.1.0"/>
     <import addon="script.module.beautifulsoup" version="3.2.1"/>
@@ -20,17 +20,17 @@
 	<import addon="script.module.addon.signals" version="0.0.1"/>
 	<import addon="script.module.youtube.dl"/>
 </requires>
-	<extension point="xbmc.addon.repository" name="Repositorio TWTutoriais">
-		<info compressed="false">https://twtutoriaisrepo.000webhostapp.com/RepoTWTutoriais/addons.xml</info>
-		<checksum>https://twtutoriaisrepo.000webhostapp.com/RepoTWTutoriais/addons.xml.md5</checksum>
-		<datadir zip="true">https://twtutoriaisrepo.000webhostapp.com/RepoTWTutoriais/Plugins/</datadir>
+	<extension point="xbmc.addon.repository" name="Repositorio BXL">
+		<info compressed="false">https://raw.githubusercontent.com/carivaldo/kako/master/addon.xml</info>
+		<checksum>https://raw.githubusercontent.com/carivaldo/kako/master/addons.xml.md5</checksum>
+		<datadir zip="true">https://raw.githubusercontent.com/carivaldo/kako/master/addon.xml/install</datadir>
 	</extension>
 	<extension point="xbmc.addon.metadata">
 	  <news>
-Add-on INSTALADO VIA REPO TONY WARLLEY TUTORIAIS, não baixe Add-ons que não sejam Oficial, Add-ons Oficiais somente no CANAL TONY WARLLEY TUTORIAIS.
+Add-on INSTALADO VIA REPO BXL, não baixe Add-ons que não sejam Oficial,
         </news>
-		<summary>Repositorio TWTutoriais</summary>
-		<description>Repositório TWTutoriais - Proibido Cópia e Reprodução sem Autorização.</description>
+		<summary>Repositorio BXL</summary>
+		<description>Repositório BXL - Proibido Cópia e Reprodução sem Autorização.</description>
 		<disclaimer></disclaimer>
 		<platform>all</platform>
 	</extension>
