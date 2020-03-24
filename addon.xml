@@ -21,9 +21,9 @@
 	<import addon="script.module.youtube.dl"/>
 </requires>
 	<extension point="xbmc.addon.repository" name="Repositorio BXL">
-		<info compressed="false">https://raw.githubusercontent.com/carivaldo/kako/master/addons.xml</info>
-		<checksum>https://raw.githubusercontent.com/carivaldo/kako/master/addons.xml.md5</checksum>
-		<datadir zip="true">https://raw.githubusercontent.com/carivaldo/kako/master/install</datadir>
+		<info compressed="false">/addons.xml</info>
+		<checksum>/addons.xml.md5</checksum>
+		<datadir zip="true"></datadir>
 	</extension>
 	<extension point="xbmc.addon.metadata">
 	  <news>
